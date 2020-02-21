@@ -1,5 +1,5 @@
 # COLLECTIONS UBUNTU BASH
-[LINUX] Collection bash for fixing error on your ubuntu OS
+[LINUX] Collection bash for fixing error on your ubuntu
 
 ### USAGE
 ##### change permission bash file
